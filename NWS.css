@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background-color: wheat;
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+.logo{
+    color: green;
+    font-size: 42px;
+    font-family: Arial;
+    padding-left: 0.5px;
+    float: left;
+    padding-top: 10px;
+
+}
+.menu{
+    width: 400px;
+    float: center;
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background-color: wheat;
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+.logo{
+    color: green;
+    font-size: 42px;
+    font-family: Arial;
+    padding-left: 0.5px;
+    float: left;
+    padding-top: 10px;
+   height: 70px;
+}*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background-color: wheat;
+    background-position: center;
+    background-size: cover;
+    height: 109vh;
+}
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+.logo{
+    color: green;
+    font-size: 42px;
+    font-family: Arial;
+    padding-left: 0.5px;
+    float: left;
+    padding-top: 10px;
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+    padding-top: 50px;
+}
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 10px;
+    font-size: 14px;
+}
+ul li a{
+    text-decoration: none;
+    color: orange;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+ul li a:hover{
+    color: green;
+}
+.search{
+    width: 330px;
+    float: left;
+    margin-left: 100px;
+}
+.srch{
+    font-family: 'Times New Roman';
+    width: 250px;
+    height: 10px;
+    background: transparent;
+    border: 1px solid green;
+    margin-top: 42px;
+    color: green;
+    border-right: none;
+    font-size: 16px;
+    float: left;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    margin-right: 0.2cm;
+    margin-left: 02cm;
+}
+.btn{
+    width: 150px;
+    height: 35px;
+    background: green;
+    margin-top: 112px;
+    color: orange;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+
+}
+.btn{
+    outline: black;
+}
+.srch:focus{
+    outline: none;
+}
